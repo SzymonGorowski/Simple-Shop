@@ -1,0 +1,70 @@
+/// Localizable
+
+// MARK: DashboardTabViewController
+"DashboardTabView.CategoryTab.NavigationTitle" = "Categories";
+"DashboardTabView.DiscountsTab.NavigationTitle" = "Discounts";
+"DashboardTabView.AccountTab.NavigationTitle" = "Account";
+"DashboardTabView.CartTab.NavigationTitle" = "Cart";
+
+// MARK: ProductDetailView
+"ProductDetailView.Category" = "Category: ";
+"ProductDetailView.Description" = "Description: \n";
+
+// MARK: CartView
+"CartView.OrderButtonTitle" = "Order";
+"CartView.EmptyCartLabelTitle" = "Your cart is empty. \nPlease check our new stuff!";
+
+// MARK: ProductDetailView
+"ProductDetailView.AddToCartButtonTitle" = "Add to cart";
+
+// MARK: UserDetailsView
+"UserDetailsView.NavigationTitle" = "User Details";
+"UserDetailsView.NameTextField.Placeholder" = "Name";
+"UserDetailsView.EmailTextField.Placeholder" = "Email";
+"UserDetailsView.AddressTextField.Placeholder" = "Address";
+"UserDetailsView.PhoneTextField.Placeholder" = "Phone Number (8 digits)";
+"UserDetailsView.CheckboxLabel.Title" = "Confirmation of reading Privacy Policy";
+"UserDetailsView.ContinueButton.Title" = "Continue";
+"UserDetailsView.Alert.Title" = "Error";
+"UserDetailsView.Alert.Message" = "Please fill data accordingly";
+"UserDetailsView.Alert.ButtonTitle" = "OK";
+
+// MARK: ConfirmOrderViewController
+"ConfirmOrderViewController.NavigationTitle" = "Confirm Order";
+
+// MARK: ConfirmOrderView
+"ConfirmOrderView.TableView.Header" = "List of products:";
+"ConfirmOrderView.UserDetailsLabel.Title" = "User Details:";
+"ConfirmOrderView.NameLabel.Title" = "Name";
+"ConfirmOrderView.EmailLabel.Title" = "Email";
+"ConfirmOrderView.AddressLabel.Title" = "Address";
+"ConfirmOrderView.PhoneNumberLabel.Title" = "Phone Number";
+"ConfirmOrderView.PaymentMethodsLabel.Title" = "Pick a payment method:";
+"ConfirmOrderView.DeliveryMethodsLabel.Title" = "Pick a delivery method:";
+"ConfirmOrderView.ConfirmButton.Title" = "Confirm";
+
+// MARK: OrderConfirmationView
+"OrderConfirmationView.ConfirmButton.Title" = "Close";
+"OrderConfirmationView.ConfirmTextLabel.Title" = "Order has been placed";
+
+// MARK: OrderConfirmationViewController
+"OrderConfirmationViewController.NavigationTitle" = "Order placed!";
+
+// MARK: DeliveryMethod
+"DeliveryMethod.PersonalCollection.Title" = "Personal Collection 📦";
+"DeliveryMethod.FastDelivery.Title" = "Fast Delivery 🏎️";
+"DeliveryMethod.StandardDelivery.Title" = "Standard Delivery 🚚";
+
+// MARK: PaymentMethod
+"PaymentMethod.Cash.Title" = "Cash 💵";
+"PaymentMethod.BankTransfer.Title" = "Bank Transfer";
+"PaymentMethod.Blik.Title" = "Blik 💸";
+
+// MARK: UserInfoView
+"UserInfoView.NameLabel.Title" = "Hello, %@";
+
+// MARK: PersonalDetailView
+"PersonalDetailView.UpdateButton.Title" = "Update";
+"PersonalDetailView.Alert.Title" = "Done";
+"PersonalDetailView.Alert.Message" = "Your data has been updated";
+"PersonalDetailView.Alert.ButtonTitle" = "OK";
